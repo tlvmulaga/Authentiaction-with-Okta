@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Update
+This repository is a clone of the original at [Authentiaction-with-Okta](https://github.com/tlvmulaga/Authentiaction-with-Okta).
+Updated for [react-router-dom v6.x.x](https://reactrouter.com/) and [Okta Sign-in widget v7.x.x](https://www.npmjs.com/package/@okta/okta-signin-widget)
+
 ## Available Scripts
 
 In the project directory, you can run:
